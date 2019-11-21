@@ -1,0 +1,3 @@
+/home/jacktrussel/Projects/newproject/newone/newone/obj/x86/Release/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/jacktrussel/Projects/newproject/newone/newone/bin/Release/newone.exe
+/home/jacktrussel/Projects/newproject/newone/newone/obj/x86/Release/newone.exe

@@ -1,0 +1,5 @@
+/home/jacktrussel/Projects/newproject/newone/newone/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/jacktrussel/Projects/newproject/newone/newone/bin/Debug/newone.exe.mdb
+/home/jacktrussel/Projects/newproject/newone/newone/bin/Debug/newone.exe
+/home/jacktrussel/Projects/newproject/newone/newone/obj/x86/Debug/newone.exe
+/home/jacktrussel/Projects/newproject/newone/newone/obj/x86/Debug/newone.exe.mdb
