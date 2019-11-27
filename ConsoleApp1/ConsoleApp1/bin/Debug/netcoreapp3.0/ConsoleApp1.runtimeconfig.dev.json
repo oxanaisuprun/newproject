@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Oksana.Suprun\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Oksana.Suprun\\.nuget\\packages"
+    ]
+  }
+}
